@@ -12,5 +12,5 @@ def solver(n, curr_pos='A', target_pos='B', off_pos='C'):
 
 if __name__ == "__main__":
 
-    fire.Fire(solver) #uncomment to use the function
+    fire.Fire(solver)
     
