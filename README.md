@@ -19,3 +19,6 @@ only a hand full of functional code. For comparison, inspect `src/solver_fn.py` 
 same (except for counting the steps). It may be similarly invoked with:  
 
 ```$ python src/solver_fn.py --n 4```
+
+
+For a nice visualisation, check out this [clip](https://www.youtube.com/watch?v=YstLjLCGmgg).
