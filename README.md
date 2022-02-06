@@ -18,7 +18,7 @@ To run the solver with 10 disks, run:
 ```$ python src/solver.py --n 10```  
 
 While `src/solver.py` contains a documented class with explanations, this solver can be squeezed into 
-only a hand full of functional code. For comparison, inspect `src/solver_fn.py` that does basically the 
+only a hand full of lines of functional code. For comparison, inspect `src/solver_fn.py` that does basically the 
 same (except for counting the steps). It may be similarly invoked with:  
 
 ```$ python src/solver_fn.py --n 4```
