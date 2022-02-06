@@ -2,7 +2,8 @@
 
 This repository contains a simple recursive solver for the Tower of Hanoi problem.  
 
-<img src="img/hanoi_gif.gif" width="200" height="150"> [<sub>source</sub>](https://commons.wikimedia.org/wiki/File:Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif) 
+[<sub>source</sub>](https://commons.wikimedia.org/wiki/File:Iterative_algorithm_solving_a_6_disks_Tower_of_Hanoi.gif)   
+<img src="img/hanoi_gif.gif" width="200" height="150"> 
 
 To setup up the environment (only for convenience packages, most code uses standard operations), use  
 
